@@ -1,0 +1,43 @@
+1)hindalco
+start: 20th march,2014
+end: 3rd April,2014
+
+2)icici bank
+start: 24th March,2014
+end: 5th April, 2014
+
+3)bhel
+start: 25TH March, 2014
+end: 5th April, 2014
+
+4)sbi
+start: 21st March,2014
+end: 5th April, 2014
+
+5)tata steel
+start:  28th march,2014
+end: 5th April,2014
+
+6)sun pharma
+start: 30th March, 2014
+end: 4th April, 2014
+
+7)larsen 
+start: 18th March, 2014
+end: 3rd April,2014
+
+8)infosys
+start: 19th March, 2014
+end: 5th April, 2014
+
+9)Axis Bank
+start: 19th March,2014
+end: 5th April, 2014
+
+10) Bharti Airtel
+start: 19th March, 2014
+end : 5th April, 2014
+
+11) ongc
+start: 1st April,2014
+end: 5th April, 2014
